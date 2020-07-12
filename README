@@ -1,4 +1,5 @@
 # Walmart_forecasting_ML
+
 In this competition, the fifth iteration, you will use hierarchical sales data from Walmart, the world’s
 largest company by revenue, to forecast daily sales for the next 28 days. The data, covers stores in
 three US States (California, Texas, and Wisconsin) and includes item level, department, product
